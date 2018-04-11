@@ -13,4 +13,7 @@
 要修改的文件：
 + 前后端里utils文件里的baseUrl.js 修改IP地址
 + 后端back文件里的api文件里的DBHelper.php 修改IP地址
-+ package.json 修改IP地址
++ package.json 修改IP地址<br />
+---------------------
+1. back后端文件夹
+2. front前端文件夹
